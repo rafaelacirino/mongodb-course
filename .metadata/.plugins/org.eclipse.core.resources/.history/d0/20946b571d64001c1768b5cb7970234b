@@ -1,0 +1,5 @@
+package pluralsight.airportmanagement.queries;
+
+public class FlightInformationQueries {
+
+}

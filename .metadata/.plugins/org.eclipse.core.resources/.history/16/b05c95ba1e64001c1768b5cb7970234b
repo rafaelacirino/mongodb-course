@@ -1,0 +1,5 @@
+package pluralsight.airportmanagement.domain;
+
+public class FlightPrinter {
+
+}
