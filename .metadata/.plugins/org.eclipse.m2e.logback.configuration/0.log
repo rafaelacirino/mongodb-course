@@ -129,3 +129,5 @@
 2021-12-27 10:32:09,733 [Worker-9: Launching airport-management2 - AirportManagementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-12-27 10:32:09,765 [Worker-9: Launching airport-management2 - AirportManagementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-12-27 10:32:09,769 [Worker-9: Launching airport-management2 - AirportManagementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-27 10:32:09,769 [Worker-9: Launching airport-management2 - AirportManagementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-12-27 10:32:09,770 [Worker-9: Launching airport-management2 - AirportManagementApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rcirino\OneDrive - Capgemini\Documents\Projects\New folder (2)\airport-management2\src\test\resources
